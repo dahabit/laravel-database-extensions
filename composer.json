@@ -1,0 +1,27 @@
+{
+    "name": "greglamb/laravel-database-extended",
+    "type": "library",
+    "description": "Additional database options for Laravel 4",
+    "keywords": ["database", "laravel", "odbc", "firebird"],
+    "license": "MIT",
+    "homepage": "http://github.com/greglamb/laravel-database-extended",
+    "authors": [
+        {
+            "name": "Greg Lamb",
+            "email": "email@greglamb.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Greglamb\\Database": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
