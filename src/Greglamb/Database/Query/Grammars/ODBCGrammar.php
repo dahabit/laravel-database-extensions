@@ -1,4 +1,4 @@
-<?php namespace Greglamb\Database\Query\Grammars;
+<?php namespace Illuminati\Database\Query\Grammars;
 
 use Illuminate\Database\Query\Grammars as Laravel;
 

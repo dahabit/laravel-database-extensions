@@ -1,4 +1,4 @@
-<?php namespace Greglamb\Database;
+<?php namespace Illuminati\Database;
 
 use Illuminate\Database as Laravel;
 

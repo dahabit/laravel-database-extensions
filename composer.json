@@ -20,7 +20,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Greglamb\\Database": "src/"
+            "Illuminati\\Database": "src/"
         }
     },
     "minimum-stability": "dev"

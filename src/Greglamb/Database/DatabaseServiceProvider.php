@@ -1,10 +1,10 @@
-<?php namespace Greglamb\Database;
+<?php namespace Illuminati\Database;
 
 use Illuminate\Database as Laravel;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\ServiceProvider;
-use Greglamb\Database\Connectors\ConnectionFactory;
+use Illuminati\Database\Connectors\ConnectionFactory;
 
 class DatabaseServiceProvider extends ServiceProvider {
 

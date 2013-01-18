@@ -1,4 +1,4 @@
-<?php namespace Greglamb\Database\Connectors;
+<?php namespace Illuminati\Database\Connectors;
 
 use Illuminate\Database\Connectors as Laravel
 

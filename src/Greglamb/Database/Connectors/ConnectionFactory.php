@@ -1,9 +1,9 @@
-<?php namespace Greglamb\Database\Connectors;
+<?php namespace Illuminati\Database\Connectors;
 
 use Illuminate\Database\Connectors as Laravel;
 
 use PDO;
-use Greglamb\Database\ODBCConnection;
+use Illuminati\Database\ODBCConnection;
 
 class ConnectionFactory extends Laravel\ConnectionFactory {
 
