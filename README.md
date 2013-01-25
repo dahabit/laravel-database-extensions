@@ -11,11 +11,11 @@
 ```php
 'providers' => array(
 //  'Illuminate\Database\DatabaseServiceProvider',
-  	'Illuminati\Database\DatabaseServiceProvider',
+  'Illuminati\Database\DatabaseServiceProvider',
 ),
 
 'aliases' => array(
-  	'EloquentValidated'        => 'Illuminati\Database\Eloquent\Model',
+  'EloquentValidated' => 'Illuminati\Database\Eloquent\Model',
 ),
 ```
 
