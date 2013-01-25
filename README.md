@@ -1,6 +1,6 @@
 #laravel-database-extensions
 
-##A collection of class extensions to the database component of Laravel 4
+##Class extensions to the database component of Laravel 4
 
 - Support for ODBC
 - Support for Firebird
