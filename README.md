@@ -10,7 +10,7 @@
 
 ```php
 'providers' => array(
-//  'Illuminate\Database\DatabaseServiceProvider',
+/*  'Illuminate\Database\DatabaseServiceProvider', */
   'Illuminati\Database\DatabaseServiceProvider',
 ),
 
