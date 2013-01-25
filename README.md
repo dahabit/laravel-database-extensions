@@ -8,7 +8,7 @@
 
 ##config/app.php
 
-```json
+```php
 'providers' => array(
 //  'Illuminate\Database\DatabaseServiceProvider',
   	'Illuminati\Database\DatabaseServiceProvider',
