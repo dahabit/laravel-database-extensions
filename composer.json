@@ -1,10 +1,10 @@
 {
-    "name": "greglamb/laravel-database-extended",
+    "name": "greglamb/laravel-database-extensions",
     "type": "library",
     "description": "Additional database options for Laravel 4",
     "keywords": ["database", "laravel", "odbc", "firebird"],
     "license": "MIT",
-    "homepage": "http://github.com/greglamb/laravel-database-extended",
+    "homepage": "http://github.com/greglamb/laravel-database-extensions",
     "authors": [
         {
             "name": "Greg Lamb",
