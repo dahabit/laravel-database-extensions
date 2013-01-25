@@ -28,6 +28,7 @@
     "url": "https://github.com/greglamb/laravel-database-extensions"
   }
 ],
+
 "require": {
   "greglamb/laravel-database-extensions": "*"
 },
