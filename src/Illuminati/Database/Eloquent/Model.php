@@ -1,4 +1,6 @@
-<?php
+<?php namespace Illuminati\Database\Eloquent;
+
+use Illuminate\Database\Eloquent as Laravel;
 
 use Illuminate\Support\MessageBag;
 
@@ -8,7 +10,7 @@ use Illuminate\Support\MessageBag;
  * Aware Models
  *    Self-validating Eloquent Models
  */
-abstract class EloquentValidated extends Eloquent
+abstract class Model extends Laravel\Model
 {
 
   /**
